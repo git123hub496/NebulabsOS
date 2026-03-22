@@ -1,0 +1,7 @@
+{
+  "name": "NebulaOS",
+  "description": "A futuristic web-based desktop environment featuring AI-powered tools, window management, and a sleek minimal interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
